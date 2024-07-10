@@ -1,2 +1,1 @@
-# kgiai
-kgiai
+# LLM進階使用與實例
