@@ -1,5 +1,9 @@
 # LLM進階使用與實例 
 
+## Demo20240731
+- https://colab.research.google.com/drive/1eOwE_Ig3QTIpuQY6C0hzlA6mtcdZkLeE?usp=sharing
+
+
 ## 提示詞工程
 
 ### 基本提示詞
