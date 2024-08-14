@@ -3,7 +3,9 @@
 ## Demo20240731
 - https://colab.research.google.com/drive/1eOwE_Ig3QTIpuQY6C0hzlA6mtcdZkLeE?usp=sharing
 
-
+## Demo 20240814
+- https://colab.research.google.com/drive/1poXsLs5OD97UiadyGVe1PK_nSswk-8gN?usp=sharing
+- 
 ## 提示詞工程
 
 ### 基本提示詞
